@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* 1rem = 10px */
+
+/* body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    background-color:#800080;
+
+}
+
+main{
+    margin-top: 10px;
+    width: 35vw;
+    text-align: center;
+    background-color:#deb887;
+    border: solid #c43673df;
+    border-width: 0.8rem;
+    border-radius: 1rem;
+    padding: 8rem 5rem;
+
+}
+
+h2{
+    font-size: 2.2rem;
+    margin: 1.8rem;
+}
+
+h3{
+    font-size: 3rem;
+}
+
+p{
+    font-size: 1.8rem;
+}
+
+.image{
+    width: 90%;
+    max-height: 22rem;
+    height: auto;
+    margin: 1rem 0 4rem 0;
+
+} */

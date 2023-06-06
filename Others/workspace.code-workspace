@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "..\\C_W_H"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\C++Practice"
+		},
+		{
+			"path": "..\\COLLEGE_WORK"
+		},
+		{
+			"path": "..\\Otheres(c++)"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp"
+		}
+	}
+}

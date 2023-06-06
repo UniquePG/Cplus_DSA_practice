@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\C++"
+		},
+		{
+			"path": "..\\Otheres(c++)"
+		},
+		{
+			"path": "..\\COLLEGE_WORK"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp"
+		}
+	}
+}
